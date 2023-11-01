@@ -71,3 +71,7 @@ https://104.168.132.128.nip.io/cae260
 104.168.132.128.nip.io
 va5vkfdihi5forrzsnmins436z3cbvf3sqqkl4lf6l6kn3t5kc5efrad.onion
 zohlm7ahjwegcedoz7lrdrti7bvpofymcayotp744qhx6gjmxbuo2yid.onion
+https://codeberg.org/m4rt1/sh/raw/branch/main/xm64.tar.gz
+https://codeberg.org/m4rt1/sh/raw/branch/main/killer.sh
+https://codeberg.org/m4rt1/sh/raw/branch/main/kill_loop.sh
+pool.hashvault.pro:80
