@@ -76,3 +76,4 @@ https://codeberg.org/m4rt1/sh/raw/branch/main/xm64.tar.gz
 https://codeberg.org/m4rt1/sh/raw/branch/main/killer.sh
 https://codeberg.org/m4rt1/sh/raw/branch/main/kill_loop.sh
 pool.hashvault.pro:80
+https://covid19.protected-forms.com
