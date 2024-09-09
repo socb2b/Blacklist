@@ -303,4 +303,21 @@ http://172.104.160.126:5000/Uploadss
 91.241.19[.]49/test/new/WX1[.]txt
 hxxp://94.131[.]108.78:7118/B/hi/
 hxxp://94.131[.]108.78:7118/B/desktop/
+hxxps://pubs[.]infinityfreeapp[.]com/SA150_Notes_2024[.]html
+hxxps://pubs[.]infinityfreeapp[.]com/IRS_P966[.]html 
+hxxps://pubs[.]infinityfreeapp[.]com/Notice_pour_remplir_la_N%C2%B0_2044[.]html 
+hxxps://pubs[.]infinityfreeapp[.]com/La_dichiarazione_precompilata_2024[.]html 
+hxxps://pubs[.]infinityfreeapp[.]com/Steuerratgeber[.]html 
+hxxps://od[.]lk/s/OTRfNzQ5NjQwOTJf/test[.]png 
+hxxps://od[.]lk/s/OTRfODQ1Njk2ODVf/2044_4765[.]pdf 
+hxxps://od[.]lk/s/OTRfODM5Mzc3NjFf/irs-p966[.]pdf 
+hxxps://od[.]lk/s/OTRfODM3MjM2NzVf/La_dichiarazione_precompilata_2024[.]pdf 
+hxxps://od[.]lk/s/OTRfODQ1NDc2MjZf/SA150_Notes_2024[.]pdf 
+hxxps://od[.]lk/s/OTRfODQ1NzA0Mjlf/einzelfragen_steuerbescheinigungen_de[.]pdf 
+hxxp://83[.]147[.]243[.]18/p/ 
+hxxps://sheets[.]googleapis[.]com:443/v4/spreadsheets/16JvcER-0TVQDimWV56syk91IMCYXOvZbW4GTnb947eE/ 
+hxxps://resource[.]infinityfreeapp[.]com/ABC_of_Tax[.]html 
+hxxps://resource[.]infinityfreeapp[.]com/0023012-317[.]html 
+hxxps://od[.]lk/s/OTRfODQ4ODE4OThf/logo[.]png 
+hxxps://od[.]lk/s/OTRfODQ5MzQ5Mzlf/ABC_of_Tax[.]pdf 
 
