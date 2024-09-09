@@ -301,3 +301,6 @@ http://172.104.160.126:5000/Uploadss
 91.241.19[.]49/CRYPS/F3dll[.]txt
 91.241.19[.]49/CRYP/F3runpe[.]txt
 91.241.19[.]49/test/new/WX1[.]txt
+hxxp://94.131[.]108.78:7118/B/hi/
+hxxp://94.131[.]108.78:7118/B/desktop/
+
