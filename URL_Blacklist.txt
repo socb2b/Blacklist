@@ -320,4 +320,7 @@ hxxps://resource[.]infinityfreeapp[.]com/ABC_of_Tax[.]html 
 hxxps://resource[.]infinityfreeapp[.]com/0023012-317[.]html 
 hxxps://od[.]lk/s/OTRfODQ4ODE4OThf/logo[.]png 
 hxxps://od[.]lk/s/OTRfODQ5MzQ5Mzlf/ABC_of_Tax[.]pdf 
+hxxp://urlty[.]co/byPCO
+hxxp[:]//192.3.176[.]138/xampp/zoom/107.hta
+hxxp[:]//192.3.176[.]138/107/sahost. exe
 
